@@ -1,0 +1,67 @@
+h1 {
+    color: brown;
+    text-align: center;
+    font-size: 78px;
+}
+#container {
+    background-image: url("../images/newsprint.jpg");
+    width: 960px;
+    height: 960px;
+    margin: auto;
+    border-width: 1px;
+    border-style: ridge;
+    border-color: #dddddd;
+}
+body {
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+p {
+    font-size: 22px;
+    color: #383535;
+    font-style: italic;
+    margin: 50px;
+}
+h2 {
+    text-align: center;
+    
+}
+#message {
+    color: brown;
+}
+h5 {
+    color: rgba(73, 72, 72, 0.5);
+    text-align: center;
+    padding: 10px;
+}
+#message7  {
+    float: right;
+}
+#message4  {
+    float: right;
+}
+#message5  {
+    float: left;
+}
+#message10  {
+    float: right;
+}
+#message15  {
+    float: right;
+}
+#message16  {
+    float: left;
+}
+#message17 {
+    float: left;
+}
+#message18  {
+    float: left;
+}
+#message25  {
+    float: right;
+}
+#message25  {
+    float: right;
+}
